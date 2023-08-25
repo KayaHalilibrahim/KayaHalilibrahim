@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Halil İbrahim Kaya</h1>
 <h3 align="center">Banu - Computer Engineer Student</h3>
 
-<p align="left"> <a href="https://twitter.com/halil_ibrhm_kya" target="blank"><img src="https://img.shields.io/twitter/follow/halil_ibrhm_kya?logo=twitter&style=for-the-badge" alt="halil_ibrhm_kya" /></a> </p>
 
 - 🌱 I’m currently learning **Java,Kotlin,Cyber Security**
 
