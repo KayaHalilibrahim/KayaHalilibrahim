@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/halil_ibrhm_kya" target="blank"><img src="https://img.shields.io/twitter/follow/halil_ibrhm_kya?logo=twitter&style=for-the-badge" alt="halil_ibrhm_kya" /></a> </p>
 -->
-- 💻 I’m currently learning **Java,Kotlin and Cyber Security**
+- 💻 I’m currently learning **Cyber Security**
 
 - 📝 I write articles on [https://medium.com/@kyibrhm05](https://medium.com/@kyibrhm05)
 
