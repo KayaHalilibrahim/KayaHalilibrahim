@@ -7,13 +7,11 @@
 
 - 📝 I write articles on [https://medium.com/@kyibrhm05](https://medium.com/@kyibrhm05)
 
-- 📫 How to reach me **kyibrhm05@gmail.com**
+- 📫 How to reach me **kaya.halilibrahim30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://yourwebsite.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" height="30" width="40" />
-  </a>
+  🌐 <a href="https://halilibrahimkaya.net" target="_blank">halilibrahimkaya.net</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,3 +32,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
+@
