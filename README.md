@@ -5,8 +5,6 @@
 -->
 - 💻 I’m currently learning **Cyber Security**
 
-- 📝 I write articles on [https://medium.com/@kyibrhm05](https://medium.com/@kyibrhm05)
-
 - 📫 How to reach me **kaya.halilibrahim30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
